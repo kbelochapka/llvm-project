@@ -256,4 +256,4 @@ endif()
 
 add_subdirectory(Analysis/LifetimeSafety)
 
-add_dependencies(check-clang-format clang-format-check-format)
+add_dependencies(clang-format-check-format)
